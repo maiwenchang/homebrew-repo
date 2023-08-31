@@ -1,8 +1,8 @@
 class BoostAT1820 < Formula
   desc "Collection of portable C++ source libraries"
   homepage "https://www.boost.org/"
-  url "https://github.com/boostorg/boost/releases/download/boost-1.83.0/boost-1.83.0.tar.xz"
-  sha256 "fd60da30be908eff945735ac7d4d9addc7f7725b1ff6fcdcaede5262d511d21e"
+  url "https://github.com/boostorg/boost/releases/download/boost-1.83.0/boost-1.83.0.tar.gz"
+  sha256 "c0685b68dd44cc46574cce86c4e17c0f611b15e195be9848dfd0769a0a207628"
   license "BSL-1.0"
   revision 1
   head "https://github.com/boostorg/boost.git", branch: "master"
